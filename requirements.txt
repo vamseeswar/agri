@@ -1,0 +1,6 @@
+flask
+werkzeug
+gtts
+groq
+python-dotenv
+gunicorn
