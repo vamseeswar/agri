@@ -4,3 +4,4 @@ gtts
 groq
 python-dotenv
 gunicorn
+flask_cors
